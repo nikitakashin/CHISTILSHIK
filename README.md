@@ -11,7 +11,7 @@ This program rewrite all your disk by temp files with random bytes, then delete 
 for example
 ``` bash
 python h.py
-c
+>>> c
 ```
 
 ### Requirements
